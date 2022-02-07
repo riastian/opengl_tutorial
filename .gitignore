@@ -1,0 +1,17 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs/opengl_tutorial/v17/Browse.VC.db
+/.vs/opengl_tutorial/v17/.suo
+/ex1/.vs/ex1/v17/ipch/AutoPCH/30c9302ebd23b5d5/EX1.ipch
+/ex1/.vs/ex1/v17/Browse.VC.opendb
+/ex1/.vs/ex1/v17/Browse.VC.db-wal
+/ex1/.vs/ex1/v17/Browse.VC.db-shm
+/ex1/.vs/ex1/v17/Browse.VC.db
+/ex1/.vs/ex1/v17/.suo
+/.vs/VSWorkspaceState.json
+/.vs/opengl_tutorial/project-colors.json
+/ex1/x64/Release
+/ex1/x64/Debug
+/ex1/x64
